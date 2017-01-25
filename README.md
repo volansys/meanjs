@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meanjs/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -230,3 +231,6 @@ The MEAN name was coined by [Valeri Karpov](http://blog.mongodb.org/post/4926286
 
 ## License
 [The MIT License](LICENSE.md)
+=======
+# meanjs
+>>>>>>> 80b50ed7be5df4cfbaf3d5f1c6b2b6547f8965d1
